@@ -7,3 +7,4 @@ xhofe/alist:latest
 jlesage/firefox
 linuxserver/qbittorrent
 ubuntu:20.04
+alpine:3.20
